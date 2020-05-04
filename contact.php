@@ -84,11 +84,13 @@
         </div>
         <div class="txtb">
             <label>Message:</label>
-             <textarea></textarea>
+             <textarea name="message"></textarea>
         </div>
          <div class="submit">
              <input type="submit" value="Sent">
          </div>
+    </div>
+    </form>
 </body>
 </html>
 
